@@ -26,12 +26,6 @@
 LinkedIn: www.linkedin.com/in/abhishek-khadape-00592a171 
 Email: abhikhadape10@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhiKhadape10&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiKhadape10&layout=compact&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhiKhadape10&theme=tokyonight)
-
 
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
