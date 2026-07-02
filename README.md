@@ -1,6 +1,6 @@
 # Hi 👋 I'm Abhishek Khadape
 
-🚀 DevOps Engineer with 4+ years of experience in Cloud & Automation
+🚀 🚀 DevOps Engineer | AWS Certified Solutions Architect | Kubernetes | Terraform | DevSecOps
 
 🔹 Working with AWS, CI/CD, Docker, Kubernetes & Terraform  
 🔹 Building scalable infrastructure and deployment pipelines  
@@ -17,9 +17,10 @@
 
 ## 📌 Current Focus
 
-- Kubernetes production deployments
-- Multi-cloud architecture
-- Infrastructure automation
+- Platform Engineering
+- Production Kubernetes
+- Infrastructure as Code
+- Cloud Security & DevSecOps
 
 ## 📫 Connect with me
 
